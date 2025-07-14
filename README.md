@@ -1,0 +1,3 @@
+- Created a Python password generator that generates strong passwords and stores them securely in a CSV file along with the associated service and username
+- Secure Password Generator with AES Encryption (Python) Developed a secure password generator that encrypts passwords using AES-based Fernet encryption and stores them in a CSV file.
+- Encryption keys are securely managed for decryption when needed.
